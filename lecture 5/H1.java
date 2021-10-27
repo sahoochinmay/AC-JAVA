@@ -9,7 +9,7 @@ public class H1{
             {
                 System.out.print("  ");
             }
-            for(int k=1;k <=4;k++)
+            for(int k=1;k <=m;k++)
             {
                 System.out.print("* ");
             }
